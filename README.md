@@ -66,12 +66,12 @@ The system processes these queries and generates dynamic charts along with AI-po
 This project was developed as part of a hackathon with the team: **Vijay, Raj Vardhan, and myself**.
 
 - **My Contribution:**  
-  Built the core system, backend logic, and data processing pipeline for natural language querying and visualization generation.
+  Built the core backend system using FastAPI and Pandas, including data processing, query interpretation, and visualization pipeline for natural language analytics.
 
 - **Vijay's Contribution:**  
   Worked on UI enhancements and system prompt optimization, contributing to the final refined version.
 
-> Note: This was a team project. Contributions varied across members, and both primary contributors maintain their own repositories.
+> Note: This project was developed as a team with Vijay. I built the core system and backend logic, while the final version was collaboratively refined (including UI and prompt improvements). This repository reflects the final integrated version.
 
 ---
 
@@ -96,5 +96,3 @@ This is a hackathon project and not a fully production-ready system. It serves a
 TalktoData demonstrates how AI can make data analysis accessible to everyone — removing the need for technical expertise and enabling faster, smarter decision-making.
 
 ---
-
-## ⭐ If you like this project, feel free to star the repo!
